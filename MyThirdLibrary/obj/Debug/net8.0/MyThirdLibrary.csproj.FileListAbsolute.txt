@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\MyThirdLibrary\bin\Debug\net8.0\MyThirdLibrary.deps.json
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\MyThirdLibrary\bin\Debug\net8.0\MyThirdLibrary.dll
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\MyThirdLibrary\bin\Debug\net8.0\MyThirdLibrary.pdb
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\MyThirdLibrary\obj\Debug\net8.0\MyThirdLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\MyThirdLibrary\obj\Debug\net8.0\MyThirdLibrary.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\MyThirdLibrary\obj\Debug\net8.0\MyThirdLibrary.AssemblyInfo.cs
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\MyThirdLibrary\obj\Debug\net8.0\MyThirdLibrary.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\MyThirdLibrary\obj\Debug\net8.0\MyThirdLibrary.sourcelink.json
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\MyThirdLibrary\obj\Debug\net8.0\MyThirdLibrary.dll
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\MyThirdLibrary\obj\Debug\net8.0\refint\MyThirdLibrary.dll
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\MyThirdLibrary\obj\Debug\net8.0\MyThirdLibrary.pdb
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\MyThirdLibrary\obj\Debug\net8.0\ref\MyThirdLibrary.dll
